@@ -1,10 +1,14 @@
 # Canberra Computer Science Enrichment Calendar
 
+## Term 3 2020
+
+- 31 July - Paul - embedded systems
+
 ## Term 2 2020
 
 - 15 May - Ralph - used the [online calculator](http://magma.maths.usyd.edu.au/calc/) to give a tutorial of Magma
 - 22 May - Josh - [Unix system and security basics](unix_basics/README.md)
-- 29 May - Paul - embedded systems
+- 29 May - Josh - Unix continued.
 - 05 June - Chenni - password cracking
 - 12 June - Artem - computer network attacks
 - 19 June - Ben - computer music
